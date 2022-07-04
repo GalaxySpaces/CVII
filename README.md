@@ -1,1 +1,1 @@
-https://github.com/GalaxySpaces/CV/.git
+https://github.com/GalaxySpaces/CV/
