@@ -1,1 +1,1 @@
-https://github.com/GalaxySpaces/CVII/
+https://GalaxySpaces.github.io/CVII/
